@@ -1,0 +1,13 @@
+{
+  "name": "llmse",
+  "description": "LLMSE integration plugin for Claude",
+  "version": "0.0.1",
+  "author": {
+    "name": "DomainsProject",
+    "url": "https://domainsproject.org"
+  },
+  "homepage": "https://llmse.ai",
+  "repository": "https://github.com/tb0hdan/llmse-plugin",
+  "license": "BSD-3-Claude",
+  "keywords": ["classification", "aeo", "eeat", "seo"]
+}

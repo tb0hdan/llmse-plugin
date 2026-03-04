@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "llmse": {
+      "type": "http",
+      "url": "https://llmse.ai/mcp"
+    }
+  }
+}
