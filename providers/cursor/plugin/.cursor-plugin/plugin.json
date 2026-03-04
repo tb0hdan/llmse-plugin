@@ -1,6 +1,6 @@
 {
   "name": "llmse",
-  "description": "LLMSE integration plugin for Claude",
+  "description": "LLMSE integration plugin for Cursor",
   "version": "0.0.1",
   "author": {
     "name": "DomainsProject",
